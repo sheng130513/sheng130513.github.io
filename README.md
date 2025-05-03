@@ -1,7 +1,7 @@
 # 網路爬蟲
 
 ## 專案介紹
-這是一個介紹的網頁
+這是一個專案的介紹
 
 ## 功能說明
 ✤ [首頁](https://sheng130513.github.io/index.html/index.html)
