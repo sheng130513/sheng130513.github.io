@@ -17,7 +17,7 @@
 
 ## 爬蟲資料來源
 資料來源：[KKBOX 華語新歌日榜](https://kma.kkbox.com/charts/daily/newrelease?cate=297)
-![kkbox chart](https://kma.kkbox.com/charts/assets/img/cover/297.png)
+![KKBOX 排行榜](https://raw.githubusercontent.com/sheng130513/sheng130513.github.io/main/KKBOX.png)
 
 ## 作者與聯絡方式
 作者:王禕聖  
