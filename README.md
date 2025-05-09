@@ -4,11 +4,11 @@
 這是一個專案的介紹
 
 ## 功能說明
-✤ [首頁](https://sheng130513.github.io/index.html/index.html)
+✤ [首頁](https://sheng130513.github.io/html5up-massively/index.html)
 
-✤ [個人介紹/興趣頁](https://sheng130513.github.io/index.html/generic.html)
+✤ [個人介紹/興趣頁](https://sheng130513.github.io/html5up-massively/aboutme.html)
 
-✤ [爬蟲成果展示頁](https://sheng130513.github.io/index.html/elements.html)
+✤ [爬蟲成果展示頁](https://sheng130513.github.io/html5up-massively/webcrawler.html)
 
 ## 使用工具與套件
 ✤spyder 
@@ -16,8 +16,8 @@
 ✤github
 
 ## 爬蟲資料來源
-資料來源：[KKBOX 華語新歌日榜](https://kma.kkbox.com/charts/daily/newrelease?cate=297)
-![KKBOX 排行榜](https://raw.githubusercontent.com/sheng130513/sheng130513.github.io/main/KKBOX.png)
+資料來源：[Spotify](https://open.spotify.com/)
+![spotify](https://github.com/sheng130513/sheng130513.github.io/blob/main/spotify.png?raw=true)
 
 ## 作者與聯絡方式
 作者:王禕聖  
